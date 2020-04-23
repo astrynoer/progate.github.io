@@ -9,7 +9,7 @@ body {
   margin: auto;
 }
 .bagianutama {
-  background-image: url(backgr.png);
+  background-image: url(img/backgr.png);
   text-align: center;
   background-size:cover;
   opacity: 0.5;
