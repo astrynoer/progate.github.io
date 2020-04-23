@@ -1,0 +1,22 @@
+body {
+  font-family: Georgia;
+  margin: auto;
+}
+
+.container{
+  width: 1200px;
+  padding: 0 20px;
+  margin: auto;
+}
+.bagianutama {
+  background-image: url(backgr.png);
+  text-align: center;
+  background-size:cover;
+  opacity: 0.5;
+}
+.bagianutama h1{
+  font-size: 25px;
+  color:#58B19F;
+  letter-spacing: 5px;
+  line-height: 10px;
+}
