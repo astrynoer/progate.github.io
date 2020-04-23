@@ -1,22 +1,37 @@
 body {
-  font-family: Georgia;
-  margin: auto;
+  font-family: "Avenir Next";
 }
 
-.container{
-  width: 1200px;
-  padding: 0 20px;
-  margin: auto;
+header {
+  background-color: #ffdab9;
+  height: 65px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 10;
 }
-.bagianutama {
-  background-image: url(img/backgr.png);
-  text-align: center;
-  background-size:cover;
-  opacity: 0.5;
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
 }
-.bagianutama h1{
-  font-size: 25px;
-  color:#58B19F;
-  letter-spacing: 5px;
-  line-height: 10px;
+
+.header-left {
+  float:left;
+}
+
+.header-right {
+  float: right;
+  margin-right: auto;
+  transition: all 0.5s;
+}
+
+.header-right a {
+  float: right;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 20px;
+  line-height: 65px;
+  display: block;
 }
