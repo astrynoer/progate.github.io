@@ -1,0 +1,70 @@
+.extra2 {
+    width: 1000px;
+    background-color: gray;
+    padding-top: 50px;   
+}
+
+.atas{
+}
+.extra2 h1{
+    text-align: center;
+    font-size: 45px;
+    letter-spacing: 5px;
+}
+.extra2 h3{
+    text-align: center;
+}
+.contact-form {
+    padding: 20px;
+    background:#d3c4be;
+    width: 500px;
+    margin: 0 auto;
+    
+  }
+
+ .contact-form p{
+    padding: 0 30px 0 0;
+    text-align: center;
+ } 
+
+  input, textarea {
+    width: 400px;
+    margin-top: 0;
+    margin-bottom:5px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+    border-radius: 5px;
+    color: #999999;
+  }
+ 
+  .contact-submit {
+    background-color: #999999;
+    font-size: 12px;
+    width: 150px;
+    padding-top: 0 auto;
+  }
+  .btn {
+    padding: 12px 24px;
+    color: black;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+
+  .facebook {
+    background-color: pink;
+  }
+  
+  .twitter {
+    background-color: #55acee;
+  }
+  
+
+  .fa {
+    margin-right: 5px;
+  }
